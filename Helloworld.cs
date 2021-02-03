@@ -1,4 +1,4 @@
-﻿using Org.Hotel1802.InnerTest;
+﻿
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,6 +10,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 using static System.Console;
+
+using Org.Hotel1802.InnerTest;
 
 
 
