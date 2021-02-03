@@ -10,7 +10,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 using static System.Console;
-using Org.Hotel1802.MyExternal;
 
 
 
@@ -279,9 +278,6 @@ namespace Org.Hotel1802
 
                 WriteLine(e.Message);
             }
-
-            MyExternalClass myExternalClass = new MyExternalClass();
-            WriteLine(myExternalClass.ToString());
 
 
             /*
