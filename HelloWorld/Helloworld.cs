@@ -104,6 +104,12 @@ namespace Org.Hotel1802
             hotDrink.Drink();
         }
 
+        public void testGitPost(HotDrink hotDrink)
+        {
+            // git 测试
+            hotDrink.Drink();
+        }
+
         static void paramsMethod(string param1, params int[] unlimitArr)
         {
             WriteLine($"param1={param1}");
