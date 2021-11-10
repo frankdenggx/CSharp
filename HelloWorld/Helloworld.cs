@@ -1,7 +1,4 @@
 ﻿
-/**
- * Copyright (c) by hotel1802 co., Ltd. All Right Reversed.
- */
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
