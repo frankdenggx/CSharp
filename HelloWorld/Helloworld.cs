@@ -16,6 +16,7 @@ using Org.Hotel1802.InnerTest;
 /*modified by yoyudeng*/
 /*modifed by denggx 1-1*/
 /*modified by yoyudeng 1-1*/
+/*modified by yoyudeng 1-2*/
 namespace Org.Hotel1802
 {
     #region
