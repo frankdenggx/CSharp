@@ -14,7 +14,7 @@ using static System.Console;
 using Org.Hotel1802.InnerTest;
 
 /*modified by yoyudeng*/
-
+/*modifed by denggx 1-1*/
 namespace Org.Hotel1802
 {
     #region
